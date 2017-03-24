@@ -44,6 +44,8 @@ npm install --save babylon-voxel-clouds
 
 ## License
 
+Credit to Andy Hall (https://github.com/andyhall)
+
 Copyright (c) 2017 Nesh108<br/>
 
 Licensed under the MIT license.
